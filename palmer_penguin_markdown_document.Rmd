@@ -5,7 +5,7 @@ date: "2023-06-12"
 output:
   html_document: default
   pdf_document: default
-  github_document: default
+
 ---
 
 ## Setting up my environment
